@@ -1,4 +1,4 @@
-# Red-vs-Blue
+# Red vs. Blue
 ###
 First, an nmap scan was made to detect all IPs within the network. Once the target IP is detected we can start looking for vulnerabilities. Methods of exploitation were made to target these vulnerabilities. Once the hack has occurred, I am able to access system files. 
 ###     
